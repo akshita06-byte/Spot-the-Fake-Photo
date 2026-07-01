@@ -29,7 +29,6 @@ and frequency-domain analysis accumulate to ~1.2 seconds total.
 ## Files
 - `train.py`: trains model from `real/` and `screen/` folders
 - `predict.py`: predicts single image (outputs 0–1 confidence)
-- `evaluate.py`: batch evaluation with accuracy & latency metrics
 - `features.py`: patch extraction & feature computation
 - `screen_detector.pkl`: trained model
 
